@@ -5,6 +5,11 @@
   
 - 🌱 I’m currently learning FORTRAN and C++ which is implemented for the aerodynamic shape optimization with drag minimization on the HPC platform. Also, learning the data science model development participating in the kaggle competition. 
 
+- 📚 List of Projects accomplished:
+- Simulation and Analysis Projects:
+- Data Science Projects:
+- Design and Manufacturing Projects:
+
 - 📫 How to reach me: ruchit.shah@mail.utoronto.ca
 
 <!---

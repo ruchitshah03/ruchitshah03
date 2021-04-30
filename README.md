@@ -7,8 +7,8 @@
 - 🌱 I’m currently working on the project of price estimation and hype analysis for the cryptocurrency using the sentiment analysis of the tweets from the Twitter. In this project, I am extracting the tweets using the API framework and anlysing it using the supervised and unsupervised machine learning and neural network algorithms.  
 
 - 📫 How to reach me: 
-  📧 ruchit.shah@mail.utoronto.ca
-  📞 +1(647)617-6906
+  <br/>📧 ruchit.shah@mail.utoronto.ca
+  <br/>📞 +1(647)617-6906
   
   
 <!---

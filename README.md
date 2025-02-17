@@ -1,5 +1,5 @@
-🚀 **Aerospace & Mechanical Engineer | FEA & CAD Specialist
-**
+🚀 **Aerospace & Mechanical Engineer | FEA & CAD Specialist**
+
 Highly motivated Aerospace and Mechanical Engineer with 4+ years of experience in structural design, stress analysis, project engineering, and manufacturing support. 
 
 Expertise in:

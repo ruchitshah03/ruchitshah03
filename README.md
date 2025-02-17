@@ -17,8 +17,8 @@ Expertise in:
 Passionate about contributing to cutting-edge engineering solutions and enhancing structural integrity in aerospace applications.
 
 📫 How to reach me: 
-<br/>📧 ruchitshah325@gmail.com
-<br/>📞 647-617-6906
+<br/>📧 ruchitshah397@gmail.com
+<br/>📞 +1-647-617-6906
   
   
 <!---
